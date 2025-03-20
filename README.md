@@ -20,8 +20,48 @@ New students often struggle to adjust to university life, and getting familiar w
 Longhorn Journey provides an interactive and engaging online experience that helps new students learn about the University of Texas at Austin’s history, important landmarks, and campus culture, making their transition easier and more fun.
 
 
+### Key Features and Benefits
+
+### Target Audience
 
 
+## Getting Started 
+
+### Prerequisites
+
+
+### Installation steps
+### Configuration requirements
+
+## Architecture
+### High-level architecture overview
+### Key components
+### Design principles
+
+## Development Workflow
+### Branch naming conventions + Conventional Commits
+### PR process
+### Testing expectations
+### Contribution guidelines
+### Code of conduct reference
+
+## Available Scripts
+### Development commands
+### Building commands
+### Testing commands
+### Linting & formatting commands
+
+## Project Structure
+### Directory organization
+### Key files and their purposes
+
+## Deployment
+### Environment information
+### Deployment process
+### Configuration details
+
+## Open Source License
+### Usually MIT but choose as needed as some dependencies may require a different license
 
 links:
 
