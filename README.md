@@ -2,7 +2,7 @@
 
 ### Build Badges
 
-* [![Next.js][Next.js]][Next-url]
+<!-- * [![Next.js][Next.js]][Next-url] -->
 * [![Astro][Astro-badge]][Astro-url]
 * [![TypeScript][TypeScript]][TypeScript-url]
 * [![Tailwind CSS][Tailwind]][Tailwind-url]
