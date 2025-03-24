@@ -74,8 +74,8 @@ Longhorn Journey provides an interactive and engaging online experience that hel
 
 ### Installation steps
 ```
-git clone https://github.com/your-username/longhorn-journey.git
-cd longhorn-journey
+git clone https://github.com/Longhorn-Developers/Longhorn-Journey.git
+cd Longhorn-Journey
 pnpm install
 pnpm dev
 ```
